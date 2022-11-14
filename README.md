@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mr. Sarikaya
+- 👋 Hi, I’m Mahmut Sarikaya
 - 👀 I’m interested in PHP and Vuejs
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Frontend and Backend 
